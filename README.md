@@ -90,22 +90,3 @@ Press **Q** to exit.
 
 ---
 
-
-## 📌 Future Improvements
-
-* Better accuracy using advanced models
-* GUI interface (Streamlit / Tkinter)
-* Save detection results
-* Convert to desktop app (.exe)
-
----
-
-## 👨‍💻 Author
-
-Your Name Here
-
----
-
-## ⭐ Support
-
-If you like this project, give it a ⭐ on GitHub!
