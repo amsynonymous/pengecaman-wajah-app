@@ -90,11 +90,6 @@ Press **Q** to exit.
 
 ---
 
-## 📸 Demo
-
-(Add screenshot here)
-
----
 
 ## 📌 Future Improvements
 
